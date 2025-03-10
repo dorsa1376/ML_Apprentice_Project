@@ -1,0 +1,12 @@
+# Ignore virtual environment
+ml_env/
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore VSCode settings
+.vscode/
+*.code-workspace
+
+# Ignore system files
+.DS_Store
